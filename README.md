@@ -17,20 +17,26 @@ number | title | tags | done | level | url | go-file | python-file | date
     * [TCP/IP](interview/protocol_tcp_ip.md)
     * [HTTP/HTTPS](interview/protocol_http.md)
     * [AMQP](interview/protocol_amqp.md)
-* 第二章：关系型数据库
+* 第二弹：关系型数据库
     * [Mysql](interview/rdbms_mysql.md)
-* 第三章：缓存型数据库
+* 第三弹：缓存型数据库
     * [Redis](interview/nosql_redis.md)
-* 第四章：系统相关
+* 第四弹：系统相关
     * [Linux](interview/system_linux.md)
     * [Docker](interview/system_docker.md)
-* 第五章：安全相关
+* 第五弹：安全相关
     * [Web Security](interview/web_security.md)
-* 第六章：系统设计相关
+* 第六弹：系统设计相关
     * [System Design](interview/system_design.md)
-* 第七章：设计模式相关
+* 第七弹：设计模式相关
     * [Design pattern](interview/design_pattern.md)
 
 
+# 好文推荐
 
 
+# 高质量技术博客
+
+[酷壳](https://coolshell.cn/)
+
+[鸟窝](https://colobu.com/) 
