@@ -1,5 +1,10 @@
 # 概览
 
+# 大厂高频面试题
+TODO 分开整理成一个练习集
+
+[高频](https://juejin.im/post/5cab4ae46fb9a0688d2e24b4)
+
 # Leetcode
 
 number | title | tags | done | level | url | go-file | python-file | date
