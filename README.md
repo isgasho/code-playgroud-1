@@ -7,12 +7,12 @@ TODO 分开整理成一个练习集
 
 # Leetcode
 
-今日题：2，83
+今日作业题：2，83
 
 number | title | tags | done | level | url | go-file | python-file | date
 ---  | --- | --- | --- | --- | --- | --- | --- | ---
 2 | Merge Two Sorted Lists | [linked-list](https://leetcode.com/tag/linked-list/) |  | 🔴🔴 | [leetcode](https://leetcode.com/problems/add-two-numbers/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/2_add_two_numbers.go) | [click]() | 2019-04-10
-21 | Merge Two Sorted Lists | [linked-list](https://leetcode.com/tag/linked-list/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/21_merge_two_sorted_lists.go) | [click]() | 2019-04-08
+21 | Merge Two Sorted Lists | [linked-list](https://leetcode.com/tag/linked-list/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/21_merge_two_sorted_lists.go) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/21_merge_two_sorted_lists.py) | 2019-04-08
 83 | Remove Duplicates from Sorted List | [linked-list](https://leetcode.com/tag/linked-list/) |  | 🔴 | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/83_remove_duplicates_from_sorted_list.go) | [click]() | 2019-04-08
 141 | Linked List Cycle | [linked-list](https://leetcode.com/tag/linked-list/) |✅ | 🔴 | [leetcode](https://leetcode.com/problems/linked-list-cycle/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/141_linked_list_cycle.go) | [click]() | 2019-04-08
 206 | Reverse Linked List | [linked-list](https://leetcode.com/tag/linked-list/) |✅ | 🔴 | [leetcode](https://leetcode.com/problems/reverse-linked-list/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/206_reverse_linked_list.go) | [click]() | 2019-04-09
