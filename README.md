@@ -8,6 +8,7 @@ TODO 分开整理成一个练习集
 # Leetcode
 
 4月14日：143，234
+4月16日: 142, 445
 
 number | title | tags | done | level | url | go-file | python-file | date
 ---  | --- | --- | --- | --- | --- | --- | --- | ---
@@ -15,9 +16,12 @@ number | title | tags | done | level | url | go-file | python-file | date
 21 | Merge Two Sorted Lists | [linked-list](https://leetcode.com/tag/linked-list/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/21_merge_two_sorted_lists.go) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/21_merge_two_sorted_lists.py) | 2019-04-08
 83 | Remove Duplicates from Sorted List | [linked-list](https://leetcode.com/tag/linked-list/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/83_remove_duplicates_from_sorted_list.go) | [click]() | 2019-04-10
 141 | Linked List Cycle | [linked-list](https://leetcode.com/tag/linked-list/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/linked-list-cycle/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/141_linked_list_cycle.go) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/141_linked_list_cycle.py) | 2019-04-08
-143 | Reorder List | [linked-list](https://leetcode.com/tag/linked-list/) | | 🔴🔴 | [leetcode](https://leetcode.com/problems/reorder-list/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/143_reorder_list.go) | [click]() | 2019-04-14
+142 | Linked List Cycle II | [linked-list](https://leetcode.com/tag/linked-list/) | | 🔴🔴 | [leetcode](https://leetcode.com/problems/linked-list-cycle-ii/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/142_linked_list_cycle_ii.go) | [click]() | 2019-04-16
+
+143 | Reorder List | [linked-list](https://leetcode.com/tag/linked-list/) | ✅ | 🔴🔴 | [leetcode](https://leetcode.com/problems/reorder-list/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/143_reorder_list.go) | [click]() | 2019-04-14
 206 | Reverse Linked List | [linked-list](https://leetcode.com/tag/linked-list/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/reverse-linked-list/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/206_reverse_linked_list.go) | [click]() | 2019-04-09
-234 | Palindrome Linked List | [linked-list](https://leetcode.com/tag/linked-list/) | | 🔴 | [leetcode](https://leetcode.com/problems/palindrome-linked-list/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/234_palindrome_linked_list.go) | [click]() | 2019-04-14
+234 | Palindrome Linked List | [linked-list](https://leetcode.com/tag/linked-list/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/palindrome-linked-list/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/234_palindrome_linked_list.go) | [click]() | 2019-04-14
+445 | Add Two Numbers II | [linked-list](https://leetcode.com/tag/linked-list/) | | 🔴🔴 | [leetcode](https://leetcode.com/problems/add-two-numbers-ii/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/445_add_two_numbers_ii.go) | [click]() | 2019-04-16
 876 | Middle of the Linked List | [linked-list](https://leetcode.com/tag/linked-list/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/middle-of-the-linked-list/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/876_middle_of_the_linked_list.go) | [click]() | 2019-04-09
 
 # sql exercise
