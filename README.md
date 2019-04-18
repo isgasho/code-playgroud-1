@@ -24,7 +24,7 @@ number | title | tags | done | level | url | go-file | python-file | date
 206 | Reverse Linked List | [linked-list](https://leetcode.com/tag/linked-list/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/reverse-linked-list/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/206_reverse_linked_list.go) | [click]() | 2019-04-09
 234 | Palindrome Linked List | [linked-list](https://leetcode.com/tag/linked-list/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/palindrome-linked-list/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/234_palindrome_linked_list.go) | [click]() | 2019-04-14
 445 | Add Two Numbers II | [linked-list](https://leetcode.com/tag/linked-list/) | ✅ | 🔴🔴 | [leetcode](https://leetcode.com/problems/add-two-numbers-ii/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/445_add_two_numbers_ii.go) | [click]() | 2019-04-16
-876 | Middle of the Linked List | [linked-list](https://leetcode.com/tag/linked-list/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/middle-of-the-linked-list/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/876_middle_of_the_linked_list.go) | [click]() | 2019-04-09
+876 | Middle of the Linked List | [linked-list](https://leetcode.com/tag/linked-list/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/middle-of-the-linked-list/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/876_middle_of_the_linked_list.go) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/876_middle_of_the_linked_list.py) | 2019-04-09
 
 # sql exercise
 
