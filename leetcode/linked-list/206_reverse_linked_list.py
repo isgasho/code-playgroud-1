@@ -17,3 +17,10 @@ class Solution(object):
             rev_head = head
             head = tmp
         return rev_head
+     
+    def reverseList(self, head, last = None):
+    	if not head:
+            return last
+    	next = head.next
+    	head.next = last
+    	return self.reverseList(next, head)
