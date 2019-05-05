@@ -33,7 +33,7 @@ number | title | tags | done | level | url | go-file | python-file | date
 876 | Middle of the Linked List | [linked-list](https://leetcode.com/tag/linked-list/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/middle-of-the-linked-list/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/876_middle_of_the_linked_list.go) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/876_middle_of_the_linked_list.py) | 2019-04-09
 ---  | --- | --- | --- | --- | --- | --- | --- | ---
 88 | Merge Sorted Array | [two-pointers](https://leetcode.com/tag/two-pointers/) | | 🔴 | [leetcode](https://leetcode.com/problems/merge-sorted-array/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/88_merge_sorted_array.go) | [click]() | 2019-04-26
-167 | Two Sum II - Input array is sorted | [two-pointers](https://leetcode.com/tag/two-pointers/) | | 🔴 | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/167_two_sum_ii_input_array_is_sorted.go) | [click]() | 2019-04-26
+167 | Two Sum II - Input array is sorted | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/167_two_sum_ii_input_array_is_sorted.go) | [click]() | 2019-04-26
 # sql exercise
 
 
