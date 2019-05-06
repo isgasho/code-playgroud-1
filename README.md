@@ -13,7 +13,8 @@ TODO 分开整理成一个练习集
 4月21日：61，148  
 
 双指针
-4月26：88，167
+4月26：88，167  
+5月6：344，349，350  
 
 number | title | tags | done | level | url | go-file | python-file | date
 ---  | --- | --- | --- | --- | --- | --- | --- | ---
@@ -32,8 +33,11 @@ number | title | tags | done | level | url | go-file | python-file | date
 445 | Add Two Numbers II | [linked-list](https://leetcode.com/tag/linked-list/) | ✅ | 🔴🔴 | [leetcode](https://leetcode.com/problems/add-two-numbers-ii/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/445_add_two_numbers_ii.go) | [click]() | 2019-04-16
 876 | Middle of the Linked List | [linked-list](https://leetcode.com/tag/linked-list/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/middle-of-the-linked-list/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/876_middle_of_the_linked_list.go) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/876_middle_of_the_linked_list.py) | 2019-04-09
 ---  | --- | --- | --- | --- | --- | --- | --- | ---
-88 | Merge Sorted Array | [two-pointers](https://leetcode.com/tag/two-pointers/) | | 🔴 | [leetcode](https://leetcode.com/problems/merge-sorted-array/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/88_merge_sorted_array.go) | [click]() | 2019-04-26
+88 | Merge Sorted Array | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/merge-sorted-array/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/88_merge_sorted_array.go) | [click]() | 2019-04-26
 167 | Two Sum II - Input array is sorted | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/167_two_sum_ii_input_array_is_sorted.go) | [click]() | 2019-04-26
+344 | Reverse String | [two-pointers](https://leetcode.com/tag/two-pointers/) | | 🔴 | [leetcode](https://leetcode.com/problems/reverse-string/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/344_reverse_string.go) | [click]() | 2019-05-06
+349 | Intersection of Two Arrays | [two-pointers](https://leetcode.com/tag/two-pointers/) | | 🔴 | [leetcode](https://leetcode.com/problems/intersection-of-two-arrays/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/349_intersection_of_two_arrays.go) | [click]() | 2019-05-06
+350 | Intersection of Two Arrays ii | [two-pointers](https://leetcode.com/tag/two-pointers/) | | 🔴 | [leetcode](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/350_intersection_of_two_arrays_ii.go) | [click]() | 2019-05-06
 # sql exercise
 
 
