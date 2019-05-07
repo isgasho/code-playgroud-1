@@ -17,6 +17,7 @@ TODO 分开整理成一个练习集
 4月26：88，167  
 5月6：344，349，350  
 5月7: 125，532  
+5月8： 11，16  
 
 number | title | tags | done | level | url | go-file | python-file | date
 ---  | --- | --- | --- | --- | --- | --- | --- | ---
@@ -35,13 +36,15 @@ number | title | tags | done | level | url | go-file | python-file | date
 445 | Add Two Numbers II | [linked-list](https://leetcode.com/tag/linked-list/) | ✅ | 🔴🔴 | [leetcode](https://leetcode.com/problems/add-two-numbers-ii/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/445_add_two_numbers_ii.go) | [click]() | 2019-04-16
 876 | Middle of the Linked List | [linked-list](https://leetcode.com/tag/linked-list/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/middle-of-the-linked-list/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/876_middle_of_the_linked_list.go) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/876_middle_of_the_linked_list.py) | 2019-04-09
 ---  | --- | --- | --- | --- | --- | --- | --- | ---
+11 | Container With Most Water | [two-pointers](https://leetcode.com/tag/two-pointers/) | | 🔴🔴 | [leetcode](https://leetcode.com/problems/container-with-most-water/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/11_container_with_most_water.go) | [click]() | 2019-05-07
+16 | 3Sum Closest | [two-pointers](https://leetcode.com/tag/two-pointers/) | | 🔴🔴 | [leetcode](https://leetcode.com/problems/3sum-closest/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/16_3sum_closest.go) | [click]() | 2019-05-07
 88 | Merge Sorted Array | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/merge-sorted-array/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/88_merge_sorted_array.go) | [click]() | 2019-04-26
-125 | Valid Palindrome | [two-pointers](https://leetcode.com/tag/two-pointers/) | | 🔴 | [leetcode](https://leetcode.com/problems/valid-palindrome/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/125_valid-palindrome.go) | [click]() | 2019-05-07
+125 | Valid Palindrome | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/valid-palindrome/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/125_valid_palindrome.go) | [click]() | 2019-05-07
 167 | Two Sum II - Input array is sorted | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/167_two_sum_ii_input_array_is_sorted.go) | [click]() | 2019-04-26
 344 | Reverse String | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/reverse-string/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/344_reverse_string.go) | [click]() | 2019-05-06
 349 | Intersection of Two Arrays | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/intersection-of-two-arrays/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/349_intersection_of_two_arrays.go) | [click]() | 2019-05-06
 350 | Intersection of Two Arrays ii | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/350_intersection_of_two_arrays_ii.go) | [click]() | 2019-05-06
-532 | K-diff Pairs in an Array | [two-pointers](https://leetcode.com/tag/two-pointers/) | | 🔴 | [leetcode](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/532_k_diff_pairs_in_an_array.go) | [click]() | 2019-05-07
+532 | K-diff Pairs in an Array | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/532_k_diff_pairs_in_an_array.go) | [click]() | 2019-05-07
 # sql exercise
 
 
