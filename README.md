@@ -18,6 +18,8 @@ TODO 分开整理成一个练习集
 5月6：344，349，350  
 5月7: 125，532  
 5月8： 11，16  
+5月9：26，42   
+
 
 number | title | tags | done | level | url | go-file | python-file | date
 ---  | --- | --- | --- | --- | --- | --- | --- | ---
@@ -38,6 +40,8 @@ number | title | tags | done | level | url | go-file | python-file | date
 ---  | --- | --- | --- | --- | --- | --- | --- | ---
 11 | Container With Most Water | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴🔴 | [leetcode](https://leetcode.com/problems/container-with-most-water/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/11_container_with_most_water.go) | [click]() | 2019-05-07
 16 | 3Sum Closest | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴🔴 | [leetcode](https://leetcode.com/problems/3sum-closest/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/16_3sum_closest.go) | [click]() | 2019-05-07
+26 | Remove Duplicates from Sorted Array | [two-pointers](https://leetcode.com/tag/two-pointers/) | | 🔴 | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/26_remove_duplicates_from_sorted_array.go) | [click]() | 2019-05-08
+42 | Trapping Rain Water | [two-pointers](https://leetcode.com/tag/two-pointers/) | | 🔴🔴🔴 | [leetcode](https://leetcode.com/problems/trapping-rain-water/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/42_trapping_rain_water.go) | [click]() | 2019-05-08
 88 | Merge Sorted Array | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/merge-sorted-array/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/88_merge_sorted_array.go) | [click]() | 2019-04-26
 125 | Valid Palindrome | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/valid-palindrome/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/125_valid_palindrome.go) | [click]() | 2019-05-07
 167 | Two Sum II - Input array is sorted | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/167_two_sum_ii_input_array_is_sorted.go) | [click]() | 2019-04-26
