@@ -91,42 +91,35 @@ mysql的MVCC（多版本并发控制）是通过保存数据在某个时间点�
 尽可能让索引既满足排序，有满足查找行是最好的。索引的列顺序和order by子句顺序完全一致，并且所有列的排序方向都一样，才能用索引对结果排序。
 如果查询需要关联多张表，则只有order by子句引用的字段全部为第一个表时，才能用索引排序
 
-##### explain 字段说明与解析
-1. id
-2. select_type       
-3. table             表明
-4. type
-5. possible_keys
-6. key               用到的索引
-7. key_len
-8. ref               const
-9. rows              扫描行数
-10. Extra            Using index（与type为index不同） / Using where
+##### explain 字段说明与解析 列举常见的类型
+1. id                select关键字对应的唯一id
+2. select_type       查询类型（SIMPLE 不包含union和子查询/PRIMARY/SUBQUERY...）
+3. table             表名
+4. partitions        分区信息
+5. type              访问方法（system/const 主键或者唯一二级索引等值匹配/ref 普通二级索引等值匹配/range 使用索引获取范围区间记录/index 需要扫描全部索引记录/ALL 全表扫描）
+6. possible_keys     可能用到的索引
+7. key               实际用到的索引
+8. key_len           实际用到的索引长度
+9. ref               索引使用等值匹配查询(用来描述type类型为等值查询的信息) const
+10. rows             预估扫描的行数
+11. filtered         经过搜索条件过滤后剩余记录条数的百分比
+12. Extra            Using index（覆盖索引场景，与type为index不同）/Using where（全表扫描使用可where）/ Using filesort 
 
 
 ## Mysql中的锁
 ##### Mysql 的锁
+不错的文章 [https://mp.weixin.qq.com/s/rLdHuwEb7gKjgpbsh1ioSA]()
+
 - 读写锁（读锁和写锁，也叫共享锁和排他锁）
 - 锁粒度
   1. 表锁：开销比较小，但是并发很弱。写操作会阻塞读写操作，读锁不互相阻塞。MyIsam就是表锁。一般ALTER TABLE会锁表。
   2. 行级锁：可以最大成都支持并发，同时也会带来锁开销，在存储引擎中实现。
- 
-
 
 
 ## 数据库优化思路
-##### 软优化
-  1. 查询语句优化
-  2. 优化子查询
-  3. 使用索引
-  4. 分解表
-  5. 增加中间表
-  6. 增加冗余字段
-  7. 分析表，检查表，优化表
-##### 硬优化
-  1. 硬件三件套（cpu，内存，磁盘）
-  2. 参数设置
-  3. 分库分表 + 读写分离
+1. 查询优化
+2. 索引优化
+3. 库表结构优化
   
 ## 优化limit分页操作
 一个比较常见且头特的问题，在翻页的偏移量比较大的时候，代价非常高。
