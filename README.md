@@ -21,6 +21,9 @@ TODO 分开整理成一个练习集
 5月9：26，42   
 5月11: 18, 80  
 
+栈：
+5月22：232，235  
+
 
 number | title | tags | done | level | url | go-file | python-file | date
 ---  | --- | --- | --- | --- | --- | --- | --- | ---
@@ -45,6 +48,7 @@ number | title | tags | done | level | url | go-file | python-file | date
 26 | Remove Duplicates from Sorted Array | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/26_remove_duplicates_from_sorted_array.go) | [click]() | 2019-05-08
 42 | Trapping Rain Water | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴🔴🔴 | [leetcode](https://leetcode.com/problems/trapping-rain-water/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/42_trapping_rain_water.go) | [click]() | 2019-05-08
 80 | Remove Duplicates from Sorted Array II | [two-pointers](https://leetcode.com/tag/two-pointers/) | | 🔴🔴 | [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/80_remove_duplicates_from_sorted_array_ii.go) | [click]() | 2019-05-11
+86 | Partition List | [two-pointers](https://leetcode.com/tag/two-pointers/) | | 🔴🔴 | [leetcode](https://leetcode.com/problems/partition-list/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/86_partition_list.go) | [click]() | 2019-05-22
 88 | Merge Sorted Array | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/merge-sorted-array/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/88_merge_sorted_array.go) | [click]() | 2019-04-26
 125 | Valid Palindrome | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/valid-palindrome/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/125_valid_palindrome.go) | [click]() | 2019-05-07
 167 | Two Sum II - Input array is sorted | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/167_two_sum_ii_input_array_is_sorted.go) | [click]() | 2019-04-26
@@ -52,6 +56,10 @@ number | title | tags | done | level | url | go-file | python-file | date
 349 | Intersection of Two Arrays | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/intersection-of-two-arrays/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/349_intersection_of_two_arrays.go) | [click]() | 2019-05-06
 350 | Intersection of Two Arrays ii | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/350_intersection_of_two_arrays_ii.go) | [click]() | 2019-05-06
 532 | K-diff Pairs in an Array | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/532_k_diff_pairs_in_an_array.go) | [click]() | 2019-05-07
+---  | --- | --- | --- | --- | --- | --- | --- | ---
+232 | Implement Queue using Stacks | [stack](https://leetcode.com/tag/stack/) | | 🔴 | [leetcode](https://leetcode.com/problems/implement-queue-using-stacks/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/stack/232_implement_queue_using_stacks.go) | [click]() | 2019-05-22
+235 | Implement Stack using Queues | [stack](https://leetcode.com/tag/stack/) | | 🔴 | [leetcode](https://leetcode.com/problems/implement-stack-using-queues/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/stack/235_implement_stack_using_queues.go) | [click]() | 2019-05-22
+
 # sql exercise
 
 

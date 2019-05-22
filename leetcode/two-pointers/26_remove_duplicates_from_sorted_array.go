@@ -7,11 +7,11 @@ package main
 
 func removeDuplicates(nums []int) int {
 	var i int = 0
-	for j := 1; j < len(nums); j++ {
-		if nums[i] != nums[j] {
-			nums[i+1] = nums[j]
+	for j := 0;  j < len(nums); j++ {
+		if j < 1 || nums[j] > nums[i-1] {
+			nums[i] = nums[j]
 			i++
 		}
 	}
-	return i + 1
+	return i
 }
