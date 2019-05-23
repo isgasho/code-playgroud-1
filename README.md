@@ -23,6 +23,7 @@ TODO 分开整理成一个练习集
 
 栈：
 5月22：232，235  
+5月23: 20, 155  
 
 
 number | title | tags | done | level | url | go-file | python-file | date
@@ -57,8 +58,10 @@ number | title | tags | done | level | url | go-file | python-file | date
 350 | Intersection of Two Arrays ii | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/350_intersection_of_two_arrays_ii.go) | [click]() | 2019-05-06
 532 | K-diff Pairs in an Array | [two-pointers](https://leetcode.com/tag/two-pointers/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/two-pointers/532_k_diff_pairs_in_an_array.go) | [click]() | 2019-05-07
 ---  | --- | --- | --- | --- | --- | --- | --- | ---
-232 | Implement Queue using Stacks | [stack](https://leetcode.com/tag/stack/) | | 🔴 | [leetcode](https://leetcode.com/problems/implement-queue-using-stacks/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/stack/232_implement_queue_using_stacks.go) | [click]() | 2019-05-22
-235 | Implement Stack using Queues | [stack](https://leetcode.com/tag/stack/) | | 🔴 | [leetcode](https://leetcode.com/problems/implement-stack-using-queues/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/stack/235_implement_stack_using_queues.go) | [click]() | 2019-05-22
+20 | Valid Parentheses | [stack](https://leetcode.com/tag/stack/) | | 🔴 | [leetcode](https://leetcode.com/problems/valid-parentheses/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/stack/20_valid_parentheses.go) | [click]() | 2019-05-23
+155 | Min Stack | [stack](https://leetcode.com/tag/stack/) | | 🔴 | [leetcode](https://leetcode.com/problems/min-stack/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/stack/155_min_stack.go) | [click]() | 2019-05-23
+232 | Implement Queue using Stacks | [stack](https://leetcode.com/tag/stack/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/implement-queue-using-stacks/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/stack/232_implement_queue_using_stacks.go) | [click]() | 2019-05-22
+235 | Implement Stack using Queues | [stack](https://leetcode.com/tag/stack/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/implement-stack-using-queues/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/stack/235_implement_stack_using_queues.go) | [click]() | 2019-05-22
 
 # sql exercise
 
