@@ -21,10 +21,12 @@ TODO 分开整理成一个练习集
 5月9：26，42   
 5月11: 18, 80  
 
-栈：
+栈  
 5月22：232，235  
 5月23: 20, 155  
 
+二分查找  
+5月24: 33，704  
 
 number | title | tags | done | level | url | go-file | python-file | date
 ---  | --- | --- | --- | --- | --- | --- | --- | ---
@@ -62,6 +64,10 @@ number | title | tags | done | level | url | go-file | python-file | date
 155 | Min Stack | [stack](https://leetcode.com/tag/stack/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/min-stack/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/stack/155_min_stack.go) | [click]() | 2019-05-23
 232 | Implement Queue using Stacks | [stack](https://leetcode.com/tag/stack/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/implement-queue-using-stacks/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/stack/232_implement_queue_using_stacks.go) | [click]() | 2019-05-22
 235 | Implement Stack using Queues | [stack](https://leetcode.com/tag/stack/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/implement-stack-using-queues/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/stack/235_implement_stack_using_queues.go) | [click]() | 2019-05-22
+---  | --- | --- | --- | --- | --- | --- | --- | ---
+33 | Search in Rotated Sorted Array | [binary-search](https://leetcode.com/tag/binary-search/) | | 🔴🔴 | [leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/binary-search/33_search_in_rotated_sorted_array.go) | [click]() | 2019-05-24
+704 | Binary Search | [binary-search](https://leetcode.com/tag/binary-search/) | | 🔴 | [leetcode](https://leetcode.com/problems/binary-search/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/binary-search/704_binary_search.go) | [click]() | 2019-05-24
+
 
 # sql exercise
 
