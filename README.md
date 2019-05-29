@@ -29,6 +29,9 @@ TODO 分开整理成一个练习集
 5月24: 33，704   
 5月25: 35，50，69  
 
+字典树  
+5月28日: 208, 720  
+
 number | title | tags | done | level | url | go-file | python-file | date
 ---  | --- | --- | --- | --- | --- | --- | --- | ---
 2 | Add Two Numbers | [linked-list](https://leetcode.com/tag/linked-list/) | ✅ | 🔴🔴 | [leetcode](https://leetcode.com/problems/add-two-numbers/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/2_add_two_numbers.go) | [click]() | 2019-04-10
@@ -67,10 +70,13 @@ number | title | tags | done | level | url | go-file | python-file | date
 235 | Implement Stack using Queues | [stack](https://leetcode.com/tag/stack/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/implement-stack-using-queues/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/stack/235_implement_stack_using_queues.go) | [click]() | 2019-05-22
 ---  | --- | --- | --- | --- | --- | --- | --- | ---
 33 | Search in Rotated Sorted Array | [binary-search](https://leetcode.com/tag/binary-search/) | ✅ | 🔴🔴 | [leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/binary-search/33_search_in_rotated_sorted_array.go) | [click]() | 2019-05-24
-35 | Search Insert Position | [binary-search](https://leetcode.com/tag/binary-search/) | | 🔴 | [leetcode](https://leetcode.com/problems/search-insert-position/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/binary-search/35_search_insert_position.go) | [click]() | 2019-05-25
-50 | Pow(x, n) | [binary-search](https://leetcode.com/tag/binary-search/) | | 🔴🔴 | [leetcode](https://leetcode.com/problems/powx-n/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/binary-search/50_powx_n.go) | [click]() | 2019-05-25
-69 | Sqrt(x) | [binary-search](https://leetcode.com/tag/binary-search/) | | 🔴 | [leetcode](https://leetcode.com/problems/sqrtx/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/binary-search/69_sqrtx.go) | [click]() | 2019-05-25
+35 | Search Insert Position | [binary-search](https://leetcode.com/tag/binary-search/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/search-insert-position/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/binary-search/35_search_insert_position.go) | [click]() | 2019-05-25
+50 | Pow(x, n) | [binary-search](https://leetcode.com/tag/binary-search/) | ✅ | 🔴🔴 | [leetcode](https://leetcode.com/problems/powx-n/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/binary-search/50_powx_n.go) | [click]() | 2019-05-25
+69 | Sqrt(x) | [binary-search](https://leetcode.com/tag/binary-search/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/sqrtx/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/binary-search/69_sqrtx.go) | [click]() | 2019-05-25
 704 | Binary Search | [binary-search](https://leetcode.com/tag/binary-search/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/binary-search/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/binary-search/704_binary_search.go) | [click]() | 2019-05-24
+---  | --- | --- | --- | --- | --- | --- | --- | ---
+208 | Implement Trie (Prefix Tree) | [trie](https://leetcode.com/tag/trie/) | | 🔴🔴 | [leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/trie/208_implement_trie_prefix_tree.go) | [click]() | 2019-05-28
+720 | Longest Word in Dictionary | [trie](https://leetcode.com/tag/trie/) | | 🔴 | [leetcode](https://leetcode.com/problems/longest-word-in-dictionary/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/trie/702_longest_word_in_dictionary.go) | [click]() | 2019-05-28
 
 
 # sql exercise
