@@ -75,7 +75,7 @@ number | title | tags | done | level | url | go-file | python-file | date
 69 | Sqrt(x) | [binary-search](https://leetcode.com/tag/binary-search/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/sqrtx/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/binary-search/69_sqrtx.go) | [click]() | 2019-05-25
 704 | Binary Search | [binary-search](https://leetcode.com/tag/binary-search/) | ✅ | 🔴 | [leetcode](https://leetcode.com/problems/binary-search/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/binary-search/704_binary_search.go) | [click]() | 2019-05-24
 ---  | --- | --- | --- | --- | --- | --- | --- | ---
-208 | Implement Trie (Prefix Tree) | [trie](https://leetcode.com/tag/trie/) | | 🔴🔴 | [leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/trie/208_implement_trie_prefix_tree.go) | [click]() | 2019-05-28
+208 | Implement Trie (Prefix Tree) | [trie](https://leetcode.com/tag/trie/) | ✅ | 🔴🔴 | [leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/trie/208_implement_trie_prefix_tree.go) | [click]() | 2019-05-28
 720 | Longest Word in Dictionary | [trie](https://leetcode.com/tag/trie/) | | 🔴 | [leetcode](https://leetcode.com/problems/longest-word-in-dictionary/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/trie/702_longest_word_in_dictionary.go) | [click]() | 2019-05-28
 
 
