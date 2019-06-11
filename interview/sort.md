@@ -87,7 +87,7 @@ func selectSort(nums []int) {
 
 #### 1.4 希尔排序
 [希尔排序](https://zh.wikipedia.org/wiki/%E5%B8%8C%E5%B0%94%E6%8E%92%E5%BA%8F)  
-改良版本的插入排序
+改良版本的插入排序，把步长step替换为1，发现和插入排序一摸一样。
 
 时间复杂度 | 空间复杂度 | 稳定排序 | 原地排序 
 ---  | --- | --- | ---
@@ -97,7 +97,23 @@ O(n^2) | O(1) | ❌ | ✅
 package main
 
 func shellSort(nums []int) {
-    
+    // step 为步长 每次对半分 ps: 按维基百科介绍有比较好的 step 公式，这里取一个比较简单的规则
+    step := len(nums) >> 1
+    for step > 0 {
+        // 步长内插入排序 注意是从后到前
+        for i := step; i < len(nums); i++ {
+            // 每列最后一个元素
+            key := nums[i]
+            j := i - step
+            // 按步长
+            for j >= step - 1 && nums[j] < key {
+                nums[j + step] = nums[j]
+                j -= step
+            }
+            nums[j + step] = key
+        }
+        step = step >> 1
+    }
 }
 
 ```
@@ -113,3 +129,16 @@ func shellSort(nums []int) {
 #### 3.1 桶排序
 
 #### 3.2 计数排序
+
+## 总结
+名称 | 时间复杂度 | 空间复杂度 | 稳定排序 | 原地排序 
+--- | ---  | --- | --- | ---
+冒泡排序 | O(n^2) | O(1) | ❌ | ✅ 
+冒泡排序 | O(n^2) | O(1) | ❌ | ✅ 
+冒泡排序 | O(n^2) | O(1) | ❌ | ✅ 
+冒泡排序 | O(n^2) | O(1) | ❌ | ✅ 
+冒泡排序 | O(n^2) | O(1) | ❌ | ✅ 
+冒泡排序 | O(n^2) | O(1) | ❌ | ✅ 
+冒泡排序 | O(n^2) | O(1) | ❌ | ✅ 
+冒泡排序 | O(n^2) | O(1) | ❌ | ✅ 
+冒泡排序 | O(n^2) | O(1) | ❌ | ✅ 
