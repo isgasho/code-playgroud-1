@@ -222,8 +222,8 @@ func mergeSort(nums []int) {
 ```
 
 #### 2.3 堆排序
-[堆排序原理](https://zh.wikipedia.org/zh-hans/%E5%A0%86%E6%8E%92%E5%BA%8F)
-[堆排序解析](https://www.geeksforgeeks.org/heap-sort/)
+[堆排序原理](https://zh.wikipedia.org/zh-hans/%E5%A0%86%E6%8E%92%E5%BA%8F)  
+[堆排序解析](https://www.geeksforgeeks.org/heap-sort/)  
 主要需要了解堆这个数据结构，以及如何构建。由于我们的排序，都是降序，这里讨论小顶堆。
 
 由于堆是完全二叉树，通常堆是通过一维数组来实现的。在数组起始位置为0的情形中：
@@ -286,14 +286,14 @@ func heapSort(nums []int) {
 
 ### 3. O(n) TODO
 #### 3.1 基数排序
-[基数排序原理](https://zh.wikipedia.org/wiki/%E5%9F%BA%E6%95%B0%E6%8E%92%E5%BA%8F)
+[基数排序原理](https://zh.wikipedia.org/wiki/%E5%9F%BA%E6%95%B0%E6%8E%92%E5%BA%8F)  
 [基数排序解析](https://www.geeksforgeeks.org/radix-sort/)  
 
 #### 3.2 计数排序
-[计数排序解析](https://www.geeksforgeeks.org/counting-sort/)
+[计数排序解析](https://www.geeksforgeeks.org/counting-sort/)  
 
 #### 3.3 桶排序
-[桶排序解析](https://www.geeksforgeeks.org/bucket-sort-2/)
+[桶排序解析](https://www.geeksforgeeks.org/bucket-sort-2/)  
 
 ## 总结
 算法名称 | 最优时间复杂度 | 最坏时间复杂度 | 时间复杂度 | 空间复杂度 | 稳定排序 | 原地排序 
