@@ -32,6 +32,9 @@ TODO 分开整理成一个练习集
 字典树  
 5月28日: 208, 720  
 
+堆  
+
+
 number | title | tags | done | level | url | go-file | python-file | date
 ---  | --- | --- | --- | --- | --- | --- | --- | ---
 2 | Add Two Numbers | [linked-list](https://leetcode.com/tag/linked-list/) | ✅ | 🔴🔴 | [leetcode](https://leetcode.com/problems/add-two-numbers/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/linked-list/2_add_two_numbers.go) | [click]() | 2019-04-10
@@ -84,27 +87,28 @@ number | title | tags | done | level | url | go-file | python-file | date
 
 
 
-# 葵花宝典
-
-* 第一弹：协议篇
+# 基本技能
+* 一：协议篇
     * [TCP/IP](interview/protocol_tcp_ip.md)
     * [HTTP/HTTPS](interview/protocol_http.md)
     * [AMQP](interview/protocol_amqp.md)
-* 第二弹：关系型数据库
+* 二：关系型数据库
     * [Mysql](interview/rdbms_mysql.md)
-* 第三弹：缓存型数据库
+* 三：缓存型数据库
     * [Redis](interview/nosql_redis.md)
-* 第四弹：系统相关
+* 四：系统
     * [Linux](interview/system_linux.md)
     * [Docker](interview/system_docker.md)
-* 第五弹：安全相关
+* 五：安全
     * [Web Security](interview/web_security.md)
-* 第六弹：系统设计相关
+* 六：系统设计
     * [System Design](interview/system_design.md)
-* 第七弹：设计模式相关
+* 七：设计模式
     * [Design pattern](interview/design_pattern.md)
-* 第八弹：基本排序算法
+* 八：基本排序算法
     * [Sort](interview/sort.md)
+* 九: 同步原语
+    * [Synchronization](interview/snchronization.md)
 
 # 好文推荐
 
