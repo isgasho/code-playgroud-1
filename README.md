@@ -30,9 +30,10 @@ TODO 分开整理成一个练习集
 5月25: 35，50，69  
 
 字典树  
-5月28日: 208, 720  
+5月28: 208, 720  
 
 堆  
+6月25: 215, 692  
 
 
 number | title | tags | done | level | url | go-file | python-file | date
@@ -81,7 +82,9 @@ number | title | tags | done | level | url | go-file | python-file | date
 ---  | --- | --- | --- | --- | --- | --- | --- | ---
 208 | Implement Trie (Prefix Tree) | [trie](https://leetcode.com/tag/trie/) | ✅ | 🔴🔴 | [leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/trie/208_implement_trie_prefix_tree.go) | [click]() | 2019-05-28
 720 | Longest Word in Dictionary | [trie](https://leetcode.com/tag/trie/) | | 🔴 | [leetcode](https://leetcode.com/problems/longest-word-in-dictionary/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/trie/702_longest_word_in_dictionary.go) | [click]() | 2019-05-28
-
+---  | --- | --- | --- | --- | --- | --- | --- | ---
+215 | Kth Largest Element in an Array | [trie](https://leetcode.com/tag/heap/) | | 🔴🔴 | [leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/heap/215_kth_largest_element_in_an_array.go) | [click]() | 2019-06-25
+692 | Top K Frequent Words | [trie](https://leetcode.com/tag/heap/) | | 🔴🔴 | [leetcode](https://leetcode.com/problems/top-k-frequent-words/) | [click](https://github.com/watermelo/code-playgroud/blob/master/leetcode/heap/692_top_k_frequent_words.go) | [click]() | 2019-06-25
 
 # sql exercise
 
