@@ -108,15 +108,12 @@ number | title | tags | done | level | url | go-file | python-file | date
     * [Web Security](interview/web_security.md)
 * 六：系统设计
     * [System Design](interview/system_design.md)
-* 七：设计模式
     * [Design pattern](interview/design_pattern.md)
-* 八：基本排序算法
-    * [Sort](interview/sort.md)
-* 九: 同步原语
     * [Synchronization](interview/snchronization.md)
-* 十: 微服务
     * [Micro Service](interview/micro_service.md)
-* 十一：算法与数据结构
+* 七：基本排序算法
+    * [Sort](interview/sort.md)
+* 八：算法与数据结构
     * [Algorithm](algorithm/content.md)
 # 好文推荐
 
