@@ -28,8 +28,10 @@
     * [算法与数据结构](algorithm/content.md)
 * 九：LeetCode 训练 
     * [LeetCode](leetcode/leetcode.md)
+* 十：语言相关[每日一题]
+    * [Python](interview/python.md)
+    * [Go](interview/golang.md)
 # 好文推荐
-
 
 # 高质量技术博客
 
