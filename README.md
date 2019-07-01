@@ -15,16 +15,16 @@
     * [Linux](interview/system_linux.md)
     * [Docker](interview/system_docker.md)
 * 五：安全
-    * [Web Security](interview/web_security.md)
+    * [Web 安全](interview/web_security.md)
 * 六：系统设计
-    * [System Design](interview/system_design.md)
-    * [Design pattern](interview/design_pattern.md)
-    * [Synchronization](interview/snchronization.md)
-    * [Micro Service](interview/micro_service.md)
+    * [系统设计](interview/system_design.md)
+    * [设计模式](interview/design_pattern.md)
+    * [同步原语](interview/snchronization.md)
+    * [微服务](interview/micro_service.md)
 * 七：基本排序算法
-    * [Sort](interview/sort.md)
+    * [排序](interview/sort.md)
 * 八：算法与数据结构
-    * [Algorithm](algorithm/content.md)
+    * [算法与数据结构](algorithm/content.md)
 * 九：LeetCode 训练 
     * [LeetCode](leetcode/leetcode.md)
 # 好文推荐
