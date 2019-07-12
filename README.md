@@ -7,6 +7,7 @@
     * [Oauth](system/oauth.md)
     * [AMQP](system/protocol_amqp.md)
 * 二：中间件
+    * [Nginx](system/nginx.md)
     * [Mysql](system/rdbms_mysql.md)
     * [Redis](system/nosql_redis.md)
     * [kafka](system/kafka.md)
