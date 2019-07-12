@@ -1,7 +1,7 @@
 # 技能清单
 
 # 基本技能
-* 一：协议篇
+* 一：协议
     * [TCP/IP](system/protocol_tcp_ip.md)
     * [HTTP/HTTPS](system/protocol_http.md)
     * [Oauth](system/oauth.md)
