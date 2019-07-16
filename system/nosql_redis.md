@@ -120,3 +120,60 @@ RDB 持久化能够快速地储存和回复数据，但是在服务器停机时�
 ### 集群
 
 
+## 参考资料
+##### 全栈群每周知识点|本周：Redis
+##### 入门
+- Redis数据类型的介绍
+    - https://redis.io/topics/data-types-intro
+    - https://redis.io/topics/data-types
+- FAQ: https://redis.io/topics/faq
+- 命令：https://redis.io/commands
+-redis入门教程：https://www.runoob.com/redis/redis-tutorial.html
+##### 进阶
+1. 锁
+- 谈谈Redis的SETNX：https://huoding.com/2015/09/14/463
+- 基于Redis的分布式锁到底安全吗？
+    - http://zhangtielei.com/posts/blog-redlock-reasoning.html
+    - http://zhangtielei.com/posts/blog-redlock-reasoning-part2.html
+- redis分布式锁：
+    - 英文版：https://redis.io/topics/distlock
+    - 中文版：https://cloudfeng.github.io/2018/07/22/arts/review/R-Distributed-locks-with-redis/  
+- Martin Kleppmann对redis 分布式锁的分布：http://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
+- Redis作者Antirez的回应：http://antirez.com/news/101
+2. 高可用与高性能
+- 复制：https://redis.io/topics/replication
+- Redis 哨兵模式：https://redis.io/topics/replication
+- Redis 集群：
+    - https://redis.io/topics/replication
+    - https://redis.io/topics/cluster-spec
+    - Redis 集群管理常见操作一览
+：http://blog.huangz.me/2018/redis-cluster-manage-cheatsheet.html
+- redis高可用原理：https://www.codedump.info/post/20190409-redis-sentinel/
+3. 持久化
+- RDB & AOF：https://redis.io/topics/persistence
+- RDB-AOF 混合持久化：http://blog.huangz.me/2017/redis-rdb-aof-mixed-persistence.html
+-过期删除策略
+  -https://redis.io/topics/lru-cache
+4.管道
+-https://redis.io/topics/pipelining
+-http://mattcamilli.com/glory-of-redis-pipelines.html
+##### 客户端
+- https://redis.io/clients
+##### 源码
+- 如何阅读Redis源码
+    - http://zhangtielei.com/posts/blog-redis-how-to-start.html
+    - http://blog.huangz.me/diary/2014/how-to-read-redis-source-code.html
+- Redis 设计与实现：http://origin.redisbook.com/
+- https://github.com/huangz1990/annotated_redis_source
+- https://github.com/menwengit/redis_source_annotation
+- 张铁蕾老师的Redis系列：https://mp.weixin.qq.com/s/3TU9qxHJyxHJgVDaYXoluA
+##### 开发规范
+- 阿里云Redis开发规范： https://yq.aliyun.com/articles/531067
+##### 书籍
+- Redis In Action： http://redisinaction.com/
+- Redis 设计与实现：http://redisbook.com/
+- Redis开发运维实践指南： https://legacy.gitbook.com/book/gnuhpc/redis-all-about/details
+- Redis开发与运维：https://cachecloud.github.io/2016/10/24/Redis3%E5%BC%80%E5%8F%91%E8%BF%90%E7%BB%B4%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5-%E7%9B%AE%E5%BD%95/
+##### 社区
+- https://redis.io/community
+编辑：云枫
