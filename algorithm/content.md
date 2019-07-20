@@ -11,4 +11,6 @@
 * 四：树
     * [二叉树](binary_tree.md)
     * [前缀树树](trie.md)
+* 五：分治策略
+    * [分治](conquer.md)
 
