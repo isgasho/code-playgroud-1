@@ -24,6 +24,8 @@
     * [同步原语](system/snchronization.md)
     * [微服务](system/micro_service.md)
     * [RPC](system/rpc.md)
+    * [分布式 ID](system/distributed_id.md)
+    * [分布式锁](system/distributed_lock.md)
 * 六：算法与数据结构
     * [排序](system/sort.md)
     * [算法与数据结构](algorithm/content.md)
