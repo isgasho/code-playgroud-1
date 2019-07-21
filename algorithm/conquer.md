@@ -42,7 +42,7 @@ func FindMaxSubArray(A []int) (left, right, sum int){
 #### 分治解法 O(nlgn)
 既然这一节是讲分治策略，那么怎么用分治的思想来优化呢。这个解法确实比较难懂，如果让脑袋去跑一遍递归，真的有点累。那么分治本来就是一种局部整体的思想，我们把切片分成三组，左，中，右。那么我们只需要得出，这三个子集的最大值即可。然后再不断分化下去，最后把最大值冒上来。分治解法的关键就是如何用整体局部的思想把问题抽象化。
 
-![image.png](https://upload-images.jianshu.io/upload_images/8573331-43269bf9a510d4fe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://user-gold-cdn.xitu.io/2019/7/21/16c1535d21ff6719?w=1240&h=993&f=png&s=328278)
 
 
 ```go
