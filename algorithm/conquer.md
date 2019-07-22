@@ -108,10 +108,37 @@ func FindMaxSubArray(A []int, low, high int) (int, int, int) {
 
 时间复杂度分析：不用推理的方式，
 
-可以将时间复杂度降低到 O(n) 吗？贪心算法？
+可以将时间复杂度降低到 O(n) 吗？动态规划
 
 #### 线性解法 O(n)
+从题目上看，可以发现这道题满足动态规划的思想。可以求得动态转移方程为：F(n) = max(F(n-1)+A[n], A[n])
 
+```go
+func FindMaxSubArray(nums []int) (left, right, maxNum int) {
+    var isLeftMax bool
+    maxNum = nums[0]
+    v := make([]int, len(nums))
+    v[0] = nums[0]
+    for i := 1; i < len(nums); i++ {
+        v[i], isLeftMax = max(nums[i], v[i-1] + nums[i])
+        if isLeftMax {
+            left = i
+        }
+        if v[i] > maxNum {
+            maxNum = v[i]
+            right = i
+        }
+    }
+    return left, right, maxNum
+}
+
+func max(a, b int) (int, bool) {
+    if a > b {
+        return a, true
+    }
+    return b, false
+}
+```
 
 ## 题目
 [53 最大子序和]([https://leetcode-cn.com/problems/maximum-subarray/](https://leetcode-cn.com/problems/maximum-subarray/)
