@@ -56,6 +56,6 @@ TODO 分开整理成一个练习集
 692 Top K Frequent Words | [heap](https://leetcode.com/tag/heap/) | | 🔴🔴 | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/) | [record](https://github.com/watermelo/code-playgroud/blob/master/leetcode/heap/347_top_k_frequent_elements.go) | [record]() | 2019-06-25
 703 Kth Largest Element in a Stream | [heap](https://leetcode.com/tag/heap/) | | 🔴🔴 | [leetcode](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [record](https://github.com/watermelo/code-playgroud/blob/master/leetcode/heap/703_kth_largest_element_in_a_stream.go) | [record]() | 2019-06-25
  --- | --- | --- | --- | --- | --- | --- | ---
-53 最大子序和 | [divide-and-conquer](https://leetcode-cn.com/tag/divide-and-conquer/) |  | 🔴| [leetcode](https://leetcode-cn.com/problems/maximum-subarray/) | [record](https://github.com/watermelo/code-playgroud/blob/master/leetcode/divide-and-conquer/53_maximum_subarray.go) | [record]() | 2019-07-21
+53 最大子序和 | [divide-and-conquer](https://leetcode-cn.com/tag/divide-and-conquer/) | ✅ | 🔴| [leetcode](https://leetcode-cn.com/problems/maximum-subarray/) | [record](https://github.com/watermelo/code-playgroud/blob/master/leetcode/divide-and-conquer/53_maximum_subarray.go) | [record]() | 2019-07-21
 
 # sql exercise
