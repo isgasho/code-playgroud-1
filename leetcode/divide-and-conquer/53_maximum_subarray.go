@@ -44,3 +44,27 @@ func FindCrossArray(nums []int, low, mid, high int) int {
     }
     return leftMaxSum + rightMaxSum
 }
+
+/*
+动态规划解法：F[i] = max(F[i-1]+nums[i], nums[i])
+*/
+
+func maxSubArray(nums []int) int {
+    maxNum := nums[0]
+    v := make([]int, len(nums))
+    v[0] = nums[0]
+    for i := 1; i < len(nums); i++ {
+        v[i] = max(nums[i], v[i-1] + nums[i])
+        if v[i] > maxNum {
+            maxNum = v[i]
+        }
+    }
+    return maxNum
+}
+
+func max(a, b int) int {
+    if a > b {
+        return a
+    }
+    return b
+}
